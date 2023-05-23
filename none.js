@@ -68,26 +68,4 @@ function salvarLS(lista){
     localStorage.setItem("minhaLista", JSON.stringify(lista));
 
 }
-
-
-
-
-
-
-
-/*const inputName = document.getElementById('input-name');
-    const inputNumber = document.getElementById('input-number');
-    
-    /*let lin = `<tr>`;
-    lin += `<td> ${inputName.value} </td>`;
-    lin +=  `<td> ${inputNumber.value}</td>`;
-    lin +=  `</tr>`;
-    linha += lin;*/
-
-            
-    /*const taBela = document.querySelector('tbody');
-    taBela.innerHTML = linha;
-
-    inputName.value = '';
-    inputNumber.value = '';*/
     
